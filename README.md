@@ -6,7 +6,7 @@ Welcome to rayheffer/securityfeed, my collection of cybersecurity RSS and other 
 * https://darknetdiaries.com (Darknet Diaries)
 
 # RSS Feeds
-* https://bleepingcomputers.com/feed
+* https://www.bleepingcomputer.com/feed/
 * https://darkreading.com/rss.xml
 * https://krebsonsecurity.com/feed
 * https://nakedsecurity.sophos.com/feed
