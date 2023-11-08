@@ -9,7 +9,7 @@ Welcome to rayheffer/securityfeed, my collection of cybersecurity RSS and other 
 * https://www.bleepingcomputer.com/feed/
 * https://darkreading.com/rss.xml
 * https://krebsonsecurity.com/feed
-* https://nakedsecurity.sophos.com/feed
+* https://news.sophos.com/en-us/category/serious-security/feed
 * https://schneier.com/blog/atom.xml
 * https://theregister.com/security/headlines.atom
 * https://threatpost.com/feed
