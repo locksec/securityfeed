@@ -1,5 +1,5 @@
 # InfoSec RSS & News Feeds
-Welcome to rayheffer/securityfeed, my collection of cybersecurity RSS and other news feeds ready to import to your favorite feed reader. I use [Reeder](https://apps.apple.com/us/app/reeder-5/id1529445840) for iOS.
+Welcome to securityfeed, my collection of cybersecurity RSS and other news feeds ready to import to your favorite feed reader. I use [Reeder](https://apps.apple.com/us/app/reeder-5/id1529445840) for iOS.
 
 # Podcasts
 * https://podcast.lockdown.media (The Lockdown - Practical Privacy & Security)
